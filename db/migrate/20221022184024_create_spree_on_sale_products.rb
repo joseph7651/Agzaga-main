@@ -5,3 +5,4 @@ class CreateSpreeOnSaleProducts < ActiveRecord::Migration[6.1]
 end
 
 # touched on 2025-05-22T23:20:01.219276Z
+# touched on 2025-08-14T20:19:16.951889Z
