@@ -6,3 +6,4 @@ class AddCalculatedPriceToSpreeSalePrices < SolidusSupport::Migration[5.2]
 end
 
 # touched on 2025-05-22T23:30:24.324852Z
+# touched on 2025-08-14T20:22:10.113856Z
