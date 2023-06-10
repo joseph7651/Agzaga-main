@@ -6,3 +6,4 @@ class AddPalletsToVariants < ActiveRecord::Migration[6.1]
 end
 
 # touched on 2025-05-22T23:22:30.939491Z
+# touched on 2025-08-14T20:25:25.427505Z
