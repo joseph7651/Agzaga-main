@@ -10,3 +10,4 @@ Spree::Core::Engine.load_seed if defined?(Spree::Core)
 Spree::Auth::Engine.load_seed if defined?(Spree::Auth)
 
 # touched on 2025-05-22T22:34:09.334548Z
+# touched on 2025-08-14T20:25:29.776393Z
