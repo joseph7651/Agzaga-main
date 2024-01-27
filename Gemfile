@@ -102,3 +102,4 @@ gem 'solidus_sitemap', github: 'solidusio-contrib/solidus_sitemap'
 
 # touched on 2025-05-22T20:44:32.255384Z
 # touched on 2025-05-22T22:32:10.060077Z
+# touched on 2025-08-14T20:35:53.379838Z
